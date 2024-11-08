@@ -1,0 +1,9 @@
+names:
+- nucleus-FG
+- nucleus-AC
+- nucleus-HE
+- dust
+nc: 4
+test: test/images
+train: train/images
+val: validation/images
